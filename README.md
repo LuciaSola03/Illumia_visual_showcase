@@ -3,6 +3,6 @@ E-commerce interactivo con estética cozy. Showcase visual de desarrollo front-e
 <!-- banner_principal -->
 <img width="597" height="179" alt="Captura de pantalla 2026-05-18 205416" src="https://github.com/user-attachments/assets/17cc0202-b9e2-49f5-8659-799f5248fea5" alt=vibe />
 <br><br>
-Creadores:
+Desarrolladores:
 - Lucia Sola
-- Ignacio Fregeiro
+- Fregeiro Ignacio
