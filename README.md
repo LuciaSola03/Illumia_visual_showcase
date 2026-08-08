@@ -5,5 +5,5 @@ E-commerce interactivo con estética cozy. Showcase visual de desarrollo front-e
 <br><br>
 Desarrolladores:
 
-- Lucia Sola
+- Sola Lucía
 - Fregeiro Ignacio
